@@ -1,7 +1,7 @@
 # Fibonacci series
- - so far: simple recursive and tail recursive take your pick
+ - so far: a plain recursive Fibonacci function and a fast tail recursive Fibonacci (much faster!)
 
 # To do:
  - Arithmetic Fibonacci series
  - add more programming languages
- - include makefiles
+ - include gnu makefiles
